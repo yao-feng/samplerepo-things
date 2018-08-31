@@ -5,3 +5,6 @@
 @yao-feng
 [create an anchor](#samplerepo-things)
 [![HitCount](http://hits.dwyl.io/{yao-feng}/{samplerepo-things}.svg)](http://hits.dwyl.io/{yao-feng}/{project})
+
+The text pass:q[<u>underline *me*</u>] is underlined and the word "`me`" is bold.
+&#169;
