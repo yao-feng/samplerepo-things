@@ -7,8 +7,8 @@ watermelon
 cool carrot
 many many cool carrots
 
-
 feature1 is amazing
 
 fixing bugs
 
+feature1 is so easy to use
